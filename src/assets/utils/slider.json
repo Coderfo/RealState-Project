@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Alive Priva Jardin",
+    "price": "36,000,000",
+    "details": "100 Carnarvon Dr. Houston TX 77024",
+    "image": "https://photos.zillowstatic.com/fp/29491c353069597c1e0efe0a09e4330d-p_e.webp"
+  },
+  {
+    "name": "The Super House",
+    "price": "46,985,000",
+    "details": "107 Timberwilde Ln Houston TX 77024",
+    "image": "https://photos.zillowstatic.com/fp/515055c8f03459436692d51bc53df02b-p_e.webp"
+  },
+  {
+    "name": "The Presidential House",
+    "price": "27,000,000",
+    "details": "3630 Willowick Rd, Houston TX 77019",
+    "image": "https://photos.zillowstatic.com/fp/eb95b799b8e66425de8011b49d3afc71-p_e.webp"
+  },
+  {
+    "name": "Cultural House",
+    "price": "11,250,000",
+    "details": "1 Longfellow Ln TX 77005",
+    "image": "https://photos.zillowstatic.com/fp/1be4bce3e4364b4f65224a65f1d5eac3-p_e.webp"
+  },
+  {
+    "name": "The Pretty House",
+    "price": "9,500,000",
+    "details": "324 Buckingham Dr, Houston, TX 77024",
+    "image": "https://photos.zillowstatic.com/fp/b6b1575a4a2f17c813eaebb18efa4862-p_e.webp"
+  },
+  {
+    "name": "House in the woods",
+    "price": "15,500,000",
+    "details": "306 Longwoods Ln, Houston, TX 77024",
+    "image": "https://photos.zillowstatic.com/fp/e5cc03899694f942ca7881f5b89194e4-p_e.webp"
+  }
+
+]
