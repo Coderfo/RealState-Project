@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Coderfo.github.io/realstate-project",
+  "homepage": "http://Coderfo.github.io/RealState-Project",
   "name": "realstate-project",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^10.8.5",
